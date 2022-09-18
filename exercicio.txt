@@ -7,3 +7,10 @@ com 4 imagens
 uma pagina redirecionando para um novo site
 e outra abrindo novo site
 
+===
+passar os arquivos grandes via comando abaixo:
+
+git lfs track "path"
+git add .
+git commit -m "Git LFS ajuste"
+git push
